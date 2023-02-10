@@ -1,0 +1,66 @@
+{
+                'fixures': {},
+                'firstHalfMatchResults': {
+                    'totalRate': '111.00',
+                    'rows': [
+                        ['-EV SAHIBI1-', 'GALATASARAY - FENERBAHÇE', '1', 'MAÇ SONUCU', '+'],
+                        ['-EV SAHIBI2-', 'TRABZON - FENERBAHÇE', '1', 'MAÇ SONUCU', '+'],
+                        ['-EV SAHIBI3-', 'GALATASARAY - TRABZON', '1', 'MAÇ SONUCU', '+'],
+                        ['-EV SAHIBI4-', 'BEŞİKTAŞ - FENERBAHÇE', '1', 'MAÇ SONUCU', '-'],
+                        ['-EV SAHIBI5-', 'GALATASARAY - BEŞİKTAŞ', '1', 'MAÇ SONUCU', '-'],
+                        ['-EV SAHIBI6-', 'GALATASARAY - TAKIM1', '1', 'MAÇ SONUCU', '+'],
+                        ['-EV SAHIBI7-', 'GALATASARAY - FENERBAHÇE', '1', 'MAÇ SONUCU', '+'],
+                        ['-EV SAHIBI8-', 'TRABZON - FENERBAHÇE', '1', 'MAÇ SONUCU', '+'],
+                        ['-EV SAHIBI9-', 'GALATASARAY - TRABZON', '1', 'MAÇ SONUCU', '+'],
+                        ['-EV SAHIBI10-', 'BEŞİKTAŞ - FENERBAHÇE', '1', 'MAÇ SONUCU', '+'],
+                        ['-EV SAHIBI11-', 'GALATASARAY - BEŞİKTAŞ', '1', 'MAÇ SONUCU', '+'],
+                        ['-EV SAHIBI12-', 'GALATASARAY - TAKIM1', '1', 'MAÇ SONUCU', '+'],
+                    ]
+                },
+                'matchResults': {
+                    'totalRate': '222.00',
+                    'rows': [
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+']
+
+                    ]
+                },
+                'bonusMatchResults': {
+                    'totalRate': '333.00',
+                    'rows': [
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+'],
+                        ['owner0', 'displacement', '1', '2', '+']
+                    ]
+                },
+                'vip': {
+                    'rows': [
+                        ['+', '3 COUPONS EVERY DAY', 'TOTAL RATE: 45.00'],
+                        ['+', '1/2 & 2/1 MATCH PREDICTION EVERY DAY', 'TOTAL RATE: 45.00'],
+                        ['+', 'CASINOS GIVES BONUSES'],
+                        ['+', 'CHANCE TO WIN $250 EVERY WEEK'],
+
+                    ]
+                }
+            }
